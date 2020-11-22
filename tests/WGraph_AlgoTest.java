@@ -10,7 +10,7 @@ import ex1.src.*;
 /**
  * Test to WGraph_Algo class.
  */
-class WGraph_Algo_Test {
+class WGraph_AlgoTest {
 
 	weighted_graph g= new WGraph_DS();
 	weighted_graph_algorithms ga= new WGraph_Algo();

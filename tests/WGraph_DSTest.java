@@ -10,7 +10,7 @@ import ex1.src.*;
 /**
  * Test to WGraph_DS class.
  */
-class WGraph_DS_Test {
+class WGraph_DSTest {
 	
 	weighted_graph g= new WGraph_DS();
 
